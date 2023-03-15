@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Nathan Santos Barbosa
 
-- 🔭 Atualmente buscando um Estágio de front-end
 - 🌱 Estudando React/Typescript
 
 <a href="https://github.com/Nathan-Barbosa/github-readme-stats">
