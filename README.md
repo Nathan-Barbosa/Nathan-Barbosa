@@ -18,7 +18,6 @@
   <img align="center" alt="Nathan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Nathan-pic" height="150" style="border-radius:50px;" src="https://scontent-gig2-1.cdninstagram.com/v/t51.2885-19/286322141_552854926296835_4293782713466978899_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=zm8dz_e1VZoAX-SR-kU&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfBlo6SWPBM3ww-qBmFZqtAwzVx1Lq5uiLxZ0vgJid8F0A&oe=6416B9AD&_nc_sid=1527a3">
 </div>
-
 ##
 
 <div>
