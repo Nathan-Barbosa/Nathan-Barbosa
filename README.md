@@ -2,9 +2,7 @@
 
 - 🌱 Estudando React/Typescript
 
-<a href="https://github.com/Nathan-Barbosa/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Nathan-Barbosa&show_icons=true&include_all_commits=true&count_private=true&theme=transparen" />
-</a>
+
 <a href="https://github.com/Nathan-Barbosa/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Barbosa&layout=compact&langs_count=8)](https://github.com/Nathan-Barbosa/github-readme-stats" />
 </a>
