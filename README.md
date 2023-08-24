@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Nathan Santos Barbosa
 
-- 🌱 Estudando React/Typescript
+- 🌱 Estudando C#, ASP.NET Core
 
 
 <a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Barbosa)](https://github.com/anuraghazra/github-readme-stats)">
